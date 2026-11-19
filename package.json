@@ -1,0 +1,22 @@
+{
+  "name": "noroff-render-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderK36/Noroff-Render-Task.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SanderK36/Noroff-Render-Task/issues"
+  },
+  "homepage": "https://github.com/SanderK36/Noroff-Render-Task#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
